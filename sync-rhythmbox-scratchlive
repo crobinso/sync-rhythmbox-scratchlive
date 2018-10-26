@@ -1,0 +1,4 @@
+#!/usr/bin/env python2
+
+from sync_rhythmbox_scratchlive import _cli
+_cli.main()
